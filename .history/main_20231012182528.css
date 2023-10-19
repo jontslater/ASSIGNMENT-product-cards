@@ -4,7 +4,6 @@ body{
 
 .card{
   border: 1px solid lightblue;
-  margin: 5px;
 }
 
 .list-group-item{
@@ -18,12 +17,5 @@ body{
 
 .container{
   display: flex;
-  justify-content: center;
-}
-
-.available{
-  background-color:gray;
-  color:yellow;
-  font-size: small;
-  text-align: center;
+  justify-content: ;
 }

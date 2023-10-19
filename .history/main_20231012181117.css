@@ -1,0 +1,11 @@
+body{
+  background-color: white;
+}
+
+.card{
+  border: 1px solid lightblue;
+}
+
+.list-group-item{
+  font-size: small;
+}
